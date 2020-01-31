@@ -1,3 +1,7 @@
+//Hugo Pilate Dec2019
+//enchaussettes.tumblr.com
+//Please credit if useful :)
+
 import processing.pdf.*;
 import controlP5.*;
 
